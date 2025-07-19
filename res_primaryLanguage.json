@@ -1,0 +1,128 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hi, I’m Juan Barbosa.\n I’m a web developer focused on building efficient, responsive sites and e‑commerce platforms using React, WordPress, WooCommerce and Shopify. With a background in JavaScript, Tailwind CSS, Bootstrap and experience in Node.js, MySQL, and automation with Python, I deliver seamless digital experiences that drive user engagement. I enjoy collaborating remotely through tools like Trello, ClickUp and Notion, and I’m always learning new technologies to stay at the cutting edge.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Store - Drink Yahweh",
+        "startDate": "2025",
+        "description": "WordPress and WooCommerce Store. A mobile-first WooCommerce store developed in WordPress, based on the client's design. Integrated payment gateway, animated product visuals, and a responsive layout ensure a modern, engaging shopping experience optimized for all devices.",
+        "images": [
+          "images/portfolio/drink-yahweh/p1.jpg",
+          "images/portfolio/drink-yahweh/p2.jpg",
+          "images/portfolio/drink-yahweh/p3.jpg"
+        ],
+        "url": "https://drinkyahweh.com/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "Wordpress"
+          },
+          {
+            "class": "devicon-woocommerce-plain",
+            "name": "Woocommerce"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+        ]
+      },
+      {
+        "title": "Clone - Calendly",
+        "startDate": "2025",
+        "description": "A visual clone of Calendly’s booking interface: users can select available dates and time slots and get simulated confirmations. Built with React, vanilla CSS, and custom animations, featuring an interactive calendar and responsive layout for a slick, modern UX",
+        "images": [
+          "images/portfolio/calendly/p1.jpg",
+          "images/portfolio/calendly/p2.jpg",
+          "images/portfolio/calendly/p3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css 3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html 5"
+          }
+        ]
+      },
+      {
+        "title": "Dibujo Fácil",
+        "startDate": "2024",
+        "description": "Dibujo Fácil is an interactive web platform that teaches drawing through step-by-step tutorials. I developed the full stack using React, Tailwind, Node.js, and MongoDB, and designed a clean, modern, and visually appealing interface focused on usability and user experience. Features include user accounts, level-based galleries, comments, ratings, and achievements. The cohesive, high-quality design enhances user engagement and retention across devices.",
+        "images": [
+          "images/portfolio/dibujo-facil/p1.jpg",
+          "images/portfolio/dibujo-facil/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind CSS"
+          }
+        ]
+      }
+      
+    ],
+    "experience": [
+      {
+        "company": "Freelance",
+        "title": "Front-End Developer",
+        "years": "2021 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "React",
+          "JavaScript",
+          "Bootstrap",
+          "Tailwind CSS",
+          "Python",
+          ".NET Core",
+          "Wordpress",
+          "WooCommerce"
+        ]
+      },
+      {
+        "company": "Sophos Solutions",
+        "title": "Backend Developer",
+        "years": "03.2023 - 10.2025",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Node.js",
+          "Tailwind CSS",
+          "Java",
+          "React",
+          "MySql"
+        ]
+      }
+      
+      
+    ]
+  }
